@@ -1,0 +1,65 @@
+﻿
+
+@model System.Int32
+
+@{
+    Layout = null;
+}
+
+<html>
+<body name="ui">
+    <div id="xg">
+        <script src="~/Scripts/jquery-3.3.1.js" type="text/javascript"></script>
+        <script src="~/Scripts/jquery.unobtrusive-ajax.js" type="text/javascript"></script>
+
+
+
+    </div>
+    <div id="res0">
+    </div>
+        <p><i id="res">Waiting</i></p>
+        <div>
+
+            @using (Ajax.BeginForm("Test", new AjaxOptions { UpdateTargetId = "results", InsertionMode = InsertionMode.Replace, Confirm = "Вы kb?" }))
+            {
+
+                <div id="results">
+                    <i id="resultses">@Model</i>
+                </div>
+
+                <input id="in" type="submit" value="Обновить" />
+
+            }
+
+
+        </div>
+        <p id="xrenhr"> @ViewBag.data</p>
+        <script type="text/javascript">
+
+
+            $("#in").on("click", function (e) {
+                e.preventDefault();
+                alert("try?");
+
+
+                $("#res0").load("/Home/Test"
+                 //   , { 'multi': 7 }, function (responsetext, textStatus, jqXHR) {
+                //    if (textStatus = 'Success') {
+
+                //        $("i [id ='res']").text(textStatus);
+                //        alert("textStatus?");
+                //    }
+                //    alert("end?");
+
+                );
+
+
+
+
+
+
+                // e.stopPropagation();
+            });
+        </script>
+</body>
+</html>  

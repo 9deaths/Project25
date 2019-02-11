@@ -1,0 +1,80 @@
+﻿
+@model WebApplication25.Models.AddressBookEntry
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<div>
+    <form>
+        <div>
+            <p><i name="infocreate">Введите данные местоположения</i></p>
+            
+            <div>
+                @Html.LabelFor(Addr => Addr.Country, "Страна*")
+                <p style="color: red"> @Html.ValidationMessageFor(Addr => Addr.Country, "")</p>
+                <p>@Html.EditorFor(Addr => Addr.Country)</p>
+            </div>
+            <div>
+                @Html.LabelFor(Addr => Addr.City, "Город*")
+                <p style="color: red"> @Html.ValidationMessageFor(Addr => Addr.City, "")</p>
+                <p>@Html.EditorFor(Addr => Addr.City)</p>
+            </div>
+            <div>
+                @Html.LabelFor(Addr => Addr.Street, "Улица")
+                <p style="color: red"> @Html.ValidationMessageFor(Addr => Addr.Street, "")</p>
+                <p>@Html.EditorFor(Addr => Addr.Street)</p>
+
+            </div>
+            <div>
+                <p>@Html.LabelFor(Addr => Addr.HomeNumber, "Номер дома")</p>
+                <p style="color: red"> @Html.ValidationMessageFor(Addr => Addr.HomeNumber, "")</p>
+                @Html.EditorFor(Addr => Addr.HomeNumber)
+            </div>
+
+            <p> <input id="okey" type="button" value="OK" /></p>
+
+            <script>
+                
+                //обработка нажатия на кнопку ОК
+                $("#okey").one("click", function (e) {
+
+                    //поля для передачи
+                    var Country = $('#Country').val();
+                    var City = $('#City').val();
+                    var Street = $('#Street').val();
+                    var HomeNumber = $('#HomeNumber').val();
+                    
+                    //передача в контроллер новой сущности и загрузка на страницу
+                    $("#results").load("/Home/Create", {
+                        'Country': Country, 'City': City, 'Street': Street, 'HomeNumber': HomeNumber
+                    } 
+                     , function (responsetext, textStatus, jqXHR) {
+                       if (textStatus != 'success') {
+
+                            //перехватываем ошибки во время запроса
+                            alert("Передача данных серверу закончилась неудачно! Error:" + textStatus);
+                            return false;
+                           }
+                        });
+                    //вызываем функцию обработки результатов запроса
+                    if (responseAggregate() == true) {
+                        $(".showmeDialog").off();
+                        $("#okey").off();
+                        $("div[tabindex = '-1']").remove();
+                   }
+                    return true;
+                });
+
+            </script>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+

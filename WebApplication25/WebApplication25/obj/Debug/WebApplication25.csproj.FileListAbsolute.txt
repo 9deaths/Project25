@@ -1,0 +1,987 @@
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\csc.exe
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\WebApplication25.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\WebApplication25.pdb
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\EntityFramework.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Owin.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\WebGrease.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\EntityFramework.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\obj\Debug\WebApplication25.csprojResolveAssemblyReference.cache
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\Dрайв\Documents\Visual Studio 2015\Projects\WebApplication25 - копия (5)\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\csc.exe
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\WebApplication25.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\WebApplication25.pdb
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\EntityFramework.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Owin.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\WebGrease.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\EntityFramework.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\obj\Debug\WebApplication25.csprojResolveAssemblyReference.cache
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\Dрайв\Desktop\AddressBook\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\csc.exe
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\WebApplication25.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\WebApplication25.pdb
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\EntityFramework.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Owin.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\WebGrease.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\EntityFramework.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\avdeev\Downloads\Тестовое задание\AddressBook\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\csc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\WebGrease.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\AddressBook\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\csc.exe
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\vbc.exe
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\second\AddressBook\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\second\AddressBook\WebApplication25\bin\WebApplication25.dll.config
+C:\inetpub\second\AddressBook\WebApplication25\bin\WebApplication25.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\WebApplication25.pdb
+C:\inetpub\second\AddressBook\WebApplication25\bin\Antlr3.Runtime.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\EntityFramework.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Newtonsoft.Json.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Owin.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Helpers.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Mvc.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Optimization.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Razor.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\WebGrease.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Helpers.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Mvc.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Optimization.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.Razor.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\inetpub\second\AddressBook\WebApplication25\bin\Newtonsoft.Json.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\EntityFramework.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\inetpub\second\AddressBook\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\inetpub\second\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\inetpub\second\AddressBook\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\inetpub\second\AddressBook\WebApplication25\obj\Debug\WebApplication25.dll
+C:\inetpub\second\AddressBook\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\inetpub\second\WebApplication25\bin\roslyn\csc.exe
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\second\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\second\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\second\WebApplication25\bin\roslyn\vbc.exe
+C:\inetpub\second\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\second\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\second\WebApplication25\bin\WebApplication25.dll.config
+C:\inetpub\second\WebApplication25\bin\WebApplication25.dll
+C:\inetpub\second\WebApplication25\bin\WebApplication25.pdb
+C:\inetpub\second\WebApplication25\bin\Antlr3.Runtime.dll
+C:\inetpub\second\WebApplication25\bin\EntityFramework.dll
+C:\inetpub\second\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\second\WebApplication25\bin\Newtonsoft.Json.dll
+C:\inetpub\second\WebApplication25\bin\Owin.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.Helpers.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.Mvc.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.Optimization.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.Razor.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.dll
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\second\WebApplication25\bin\WebGrease.dll
+C:\inetpub\second\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.Helpers.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.Mvc.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.Optimization.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.Razor.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\second\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\second\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\inetpub\second\WebApplication25\bin\Newtonsoft.Json.xml
+C:\inetpub\second\WebApplication25\bin\EntityFramework.xml
+C:\inetpub\second\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\second\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\inetpub\second\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\inetpub\second\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\inetpub\second\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\inetpub\second\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\inetpub\second\WebApplication25\obj\Debug\WebApplication25.dll
+C:\inetpub\second\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\csc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\WebGrease.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second0\WebApplication25\obj\Debug\WebApplication25.pdb
+F:\INS\second0\WebApplication25\bin\roslyn\csc.exe
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\INS\second0\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\INS\second0\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+F:\INS\second0\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+F:\INS\second0\WebApplication25\bin\roslyn\vbc.exe
+F:\INS\second0\WebApplication25\bin\roslyn\VBCSCompiler.exe
+F:\INS\second0\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+F:\INS\second0\WebApplication25\bin\WebApplication25.dll.config
+F:\INS\second0\WebApplication25\bin\WebApplication25.dll
+F:\INS\second0\WebApplication25\bin\WebApplication25.pdb
+F:\INS\second0\WebApplication25\bin\Antlr3.Runtime.dll
+F:\INS\second0\WebApplication25\bin\EntityFramework.dll
+F:\INS\second0\WebApplication25\bin\EntityFramework.SqlServer.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+F:\INS\second0\WebApplication25\bin\Newtonsoft.Json.dll
+F:\INS\second0\WebApplication25\bin\Owin.dll
+F:\INS\second0\WebApplication25\bin\System.Web.Helpers.dll
+F:\INS\second0\WebApplication25\bin\System.Web.Mvc.dll
+F:\INS\second0\WebApplication25\bin\System.Web.Optimization.dll
+F:\INS\second0\WebApplication25\bin\System.Web.Razor.dll
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.dll
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.Razor.dll
+F:\INS\second0\WebApplication25\bin\WebGrease.dll
+F:\INS\second0\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\INS\second0\WebApplication25\bin\System.Web.Helpers.xml
+F:\INS\second0\WebApplication25\bin\System.Web.Mvc.xml
+F:\INS\second0\WebApplication25\bin\System.Web.Optimization.xml
+F:\INS\second0\WebApplication25\bin\System.Web.Razor.xml
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.xml
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+F:\INS\second0\WebApplication25\bin\System.Web.WebPages.Razor.xml
+F:\INS\second0\WebApplication25\bin\Antlr3.Runtime.pdb
+F:\INS\second0\WebApplication25\bin\Newtonsoft.Json.xml
+F:\INS\second0\WebApplication25\bin\EntityFramework.xml
+F:\INS\second0\WebApplication25\bin\EntityFramework.SqlServer.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+F:\INS\second0\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\INS\second0\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\EntityFramework.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+F:\INS\second0\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\INS\second0\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+F:\INS\second0\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+F:\INS\second0\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+F:\INS\second0\WebApplication25\obj\Debug\WebApplication25.dll
+F:\INS\second0\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\csc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\WebGrease.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\second1\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\csc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\WebApplication25.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Owin.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\WebGrease.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\avdeev\Documents\Visual Studio 2017\Projects\WebApplication25\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\csc.exe
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\vbc.exe
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\WebApplication25.dll.config
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\WebApplication25.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\WebApplication25.pdb
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Antlr3.Runtime.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\EntityFramework.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\EntityFramework.SqlServer.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Newtonsoft.Json.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Owin.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Helpers.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Mvc.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Optimization.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Razor.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\WebGrease.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Helpers.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Mvc.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Optimization.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.Razor.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Antlr3.Runtime.pdb
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Newtonsoft.Json.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\EntityFramework.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\EntityFramework.SqlServer.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\EntityFramework.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\obj\Debug\WebApplication25.dll
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\obj\Debug\WebApplication25.pdb
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\bin\Content\images\button_add.png
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csprojAssemblyReference.cache
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csproj.CoreCompileInputs.cache
+C:\Users\Dрайв\source\repos\WebApplication25\WebApplication25\obj\Debug\WebApplication25.csproj.CopyComplete

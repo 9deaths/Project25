@@ -1,0 +1,165 @@
+﻿
+@model IEnumerable<WebApplication25.Models.AddressBookEntry>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html >
+<head>
+   
+    <title></title>
+    <link href='@Url.Content("~/Content/themes/base/jquery-ui.css")' rel="stylesheet" type="text/css" />
+    <title></title>
+    <meta charset="utf-8">
+    <style>
+        body {
+            width: 80%;
+            margin: 40px auto;
+            font-family: 'trebuchet MS', 'Lucida sans', Arial;
+            font-size: 14px;
+            color: #444;
+        }
+
+        table {
+            *border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
+        }
+
+        .bordered {
+            border: solid #ccc 1px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            border-radius: 6px;
+            -webkit-box-shadow: 0 1px 1px #ccc;
+            -moz-box-shadow: 0 1px 1px #ccc;
+            box-shadow: 0 1px 1px #ccc;
+        }
+
+            .bordered tr:hover {
+                background: #fbf8e9;
+                -o-transition: all 0.1s ease-in-out;
+                -webkit-transition: all 0.1s ease-in-out;
+                -moz-transition: all 0.1s ease-in-out;
+                transition: all 0.1s ease-in-out;
+            }
+
+            .bordered td, .bordered th {
+                border-left: 1px solid #ccc;
+                border-top: 1px solid #ccc;
+                padding: 10px;
+                text-align: left;
+            }
+
+            .bordered th {
+                background-color: #dce9f9;
+                background-image: -webkit-gradient(linear, left top, left bottom, from(#ebf3fc), to(#dce9f9));
+                background-image: -webkit-linear-gradient(top, #ebf3fc, #dce9f9);
+                background-image: -moz-linear-gradient(top, #ebf3fc, #dce9f9);
+                background-image: -o-linear-gradient(top, #ebf3fc, #dce9f9);
+                background-image: linear-gradient(top, #ebf3fc, #dce9f9);
+                -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;
+                -moz-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;
+                box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;
+                border-top: none;
+                text-shadow: 0 1px 0 rgba(255,255,255,.5);
+            }
+
+                .bordered td:first-child, .bordered th:first-child {
+                    border-left: none;
+                }
+
+                .bordered th:first-child {
+                    -moz-border-radius: 6px 0 0 0;
+                    -webkit-border-radius: 6px 0 0 0;
+                    border-radius: 6px 0 0 0;
+                }
+
+                .bordered th:last-child {
+                    -moz-border-radius: 0 6px 0 0;
+                    -webkit-border-radius: 0 6px 0 0;
+                    border-radius: 0 6px 0 0;
+                }
+
+            .bordered tr:last-child td:first-child {
+                -moz-border-radius: 0 0 0 6px;
+                -webkit-border-radius: 0 0 0 6px;
+                border-radius: 0 0 0 6px;
+            }
+
+            .bordered tr:last-child td:last-child {
+                -moz-border-radius: 0 0 6px 0;
+                -webkit-border-radius: 0 0 6px 0;
+                border-radius: 0 0 6px 0;
+            }
+
+        .pict {
+            background: url("button_add.png") no-repeat top left;
+            display: block;
+            width: 150px;
+            height: 50px;
+            text-indent: -999px;
+        }
+    </style>
+</head>
+
+<body id="Body">
+
+    <div id="results">
+        <h2> Адресная книга</h2>
+        <p>
+            Статус:
+            <i name="info" id="succ" class="load" style="color: gray">
+                @Session["Info"]
+            </i>
+        </p>
+
+        <a class="showmeDialog pict" data-dialog-title="Добавить адрес" href="/Home/Create">Добавить</a>
+
+        <br>
+
+        <table id="ta" class="bordered">
+            <thead>
+                <tr>
+                    <th>Страна</th>
+                    <th>Город</th>
+                    <th>Улица</th>
+                    <th>№ дома</th>
+                    <th>Дата создания записи</th>
+                </tr>
+            </thead>
+
+            
+            @if (Model != null)
+            {
+                foreach (var a in Model)
+                {
+                    <tr>
+                        <td>@a.Country</td>
+                        <td>@a.City</td>
+                        <td>@a.Street</td>
+                        <td>@a.HomeNumber</td>
+                        <td>@a.DateAdded</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td>  </td>
+                    <td>  </td>
+                    <td>  </td>
+                    <td>  </td>
+                    <td>  </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div>
+    </div>
+    
+</body>
+
+</html>
